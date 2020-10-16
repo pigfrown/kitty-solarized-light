@@ -14,4 +14,5 @@ For linux users:
 git clone https://github.com/pigfrown/kitty-solarized-light
 cd kitty-solarized-light
 cat colours.kitty >> ~/.config/kitty/kitty.conf
+
 ```
