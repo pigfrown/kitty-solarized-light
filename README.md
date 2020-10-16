@@ -13,5 +13,5 @@ For linux users:
 ```
 git clone https://github.com/pigfrown/kitty-solarized-light
 cd kitty-solarized-light
-cat kitty-colours > ~/.config/kitty/kitty.conf
+cat kitty-colours >> ~/.config/kitty/kitty.conf
 ```
